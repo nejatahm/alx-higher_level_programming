@@ -6,7 +6,7 @@ contains the class "Student"
 
 class Student:
     """Reprsentation of a student"""
-    def __init__(self,first_name,last_name,age):
+    def __init__(self, first_name, last_name, age):
         """intializes the student"""
         self.first_name = first_name
         self.last_name = last_name
